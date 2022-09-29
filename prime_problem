@@ -10,7 +10,6 @@ function checkprime (number){
   }
     return false;
 }
-
  let ans=checkprime(17);
  if(ans==true){
 console.log("Prime");
